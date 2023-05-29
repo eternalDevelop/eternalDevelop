@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 안녕하세요 👋
+### 코딩이 어렵지만 너무 재밌습니다
 <!--
 **eternalDevelop/eternalDevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
